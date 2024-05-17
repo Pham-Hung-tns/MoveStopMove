@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c8b950ca2d54474092ee726f52942ad, type: 3}
+  m_Name: WeaponInfor_Boomerang
+  m_EditorClassIdentifier: 
+  WeaponPrefab: {fileID: 4119310336978929437, guid: f46134bba77f1d844947d39630359c44, type: 3}
+  AttackRange: 2
+  AttackSpeed: 1.3
+  Materials:
+  - {fileID: 2100000, guid: 70043ad8955d38a4ab6d8618f5933aaf, type: 2}
+  - {fileID: 2100000, guid: d59730ebe38da004ebdd66d02b943ea4, type: 2}

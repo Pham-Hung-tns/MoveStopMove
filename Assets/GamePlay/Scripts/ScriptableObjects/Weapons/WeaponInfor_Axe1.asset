@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c8b950ca2d54474092ee726f52942ad, type: 3}
+  m_Name: WeaponInfor_Axe1
+  m_EditorClassIdentifier: 
+  WeaponPrefab: {fileID: 3992918020434938007, guid: bf7d35bc06f7a114ea28a2f128b3b689, type: 3}
+  AttackRange: 1
+  AttackSpeed: 1.2
+  Materials:
+  - {fileID: 2100000, guid: 032fc9f452df4024cadea12b74b0b3a3, type: 2}
+  - {fileID: 2100000, guid: 5c38677997667a146988c9f2e15fa057, type: 2}

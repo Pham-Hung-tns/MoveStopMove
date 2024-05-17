@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c8b950ca2d54474092ee726f52942ad, type: 3}
+  m_Name: WeaponInfor_Candy1
+  m_EditorClassIdentifier: 
+  WeaponPrefab: {fileID: 4096176790645804342, guid: 1ab8c9ccc660be34a96aba833a3f9033, type: 3}
+  AttackRange: 0
+  AttackSpeed: 0
+  Materials:
+  - {fileID: 2100000, guid: da5839316720ee34fbb8c38d05ef23e9, type: 2}
+  - {fileID: 2100000, guid: 10b7206ab3359f34e96b0103eb1acbc7, type: 2}
+  - {fileID: 2100000, guid: 69c6ca38f0c9c044b9087e4a450d29a6, type: 2}
+  - {fileID: 2100000, guid: 01fee33832ee39d4bbeb427da422c572, type: 2}
